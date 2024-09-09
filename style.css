@@ -1,9 +1,9 @@
 :root {
-  --clr-primary: "#A991F7",
-  --clr-secondary: "#F6D860",
-  --clr-accent: "#37CDBE",
-  --clr-neutral: "#3D4451",
-  --clr-base: "#FFFFFF",
+  --clr-primary: "#A991F7";
+  --clr-secondary: "#F6D860";
+  --clr-accent: "#37CDBE";
+  --clr-neutral: "#3D4451";
+  --clr-base: "#FFFFFF";
 
   --size-xs: 0.75rem;
   --size-sm: 0.875rem;
